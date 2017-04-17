@@ -19,12 +19,12 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    String url="http://ws.polarisclm.com/JsonService.asmx/Login";
+    String url="Web Service Url";
     String serviceUserName="UserName";
     String servicePassword="Password";
 
-    String userName="1x3m8BjizLyenSDm57mOfEUbb+i3tPlJwzTonR390Ug=";
-    String password="0YCgdLHGwsglxsNblNAmCA==";
+    String userName="your username";
+    String password="your pass";
 
 
 
